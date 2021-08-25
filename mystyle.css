@@ -1,0 +1,24 @@
+#unique{
+    color: pink;
+}
+h1{
+    color: brown;
+    background-color: sandybrown;
+}
+
+p{
+    color: salmon;
+}
+
+img{
+    width: 500px;
+}
+
+.first-p{
+    color: seagreen;
+}
+
+.second-p{
+    color: blue;
+
+}
